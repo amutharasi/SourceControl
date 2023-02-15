@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Suggestion box for employees</description>
+        <device_type>browser</device_type>
+        <hint>Suggestion box for employees</hint>
+        <name/>
+        <order/>
+        <roles>x_974207_innovativ.employee</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 10:28:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8c79bf8b1ba46110c9f0877ddc4bcbf5</sys_id>
+        <sys_name>Innovative</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Innovative" source="x_974207_innovativ">10c6b70b1ba46110c9f0877ddc4bcb27</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovative">10c6b70b1ba46110c9f0877ddc4bcb27</sys_scope>
+        <sys_update_name>sys_app_application_8c79bf8b1ba46110c9f0877ddc4bcbf5</sys_update_name>
+        <title>Innovative</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
